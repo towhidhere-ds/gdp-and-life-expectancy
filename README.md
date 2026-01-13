@@ -1,10 +1,4 @@
-# Data Visualizations Portfolio
-
-Welcome to my data visualization portfolio! This repository showcases projects where I analyze and visualize data to uncover insights.
-
----
-
-## Project: GDP and Life Expectancy Analysis
+## GDP and Life Expectancy Analysis
 
 ### Overview
 This project investigates the relationship between GDP (Gross Domestic Product) and life expectancy across six nations. By analyzing and visualizing the data, the project aims to answer key socio-economic questions.
